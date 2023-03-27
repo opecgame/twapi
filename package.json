@@ -1,6 +1,6 @@
 {
   "name": "@opecgame/twapi",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Redeem Money form Truemoney Gift",
   "main": "index.js",
   "scripts": {
