@@ -1,0 +1,25 @@
+{
+  "name": "@opecgame/twapi",
+  "version": "1.2.0",
+  "description": "Redeem Money form Truemoney Gift",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "truewallet",
+    "truemoney",
+    "truemoney-wallet",
+    "tw",
+    "gift",
+    "truewallet-gift",
+    "aungpao"
+  ],
+  "author": "OpecZ Dev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {}
+}
