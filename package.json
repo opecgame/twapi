@@ -19,7 +19,7 @@
   "repository": "https://github.com/opecgame/twapi",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.6.0",
     "https": "^1.0.0"
   },
   "devDependencies": {}
